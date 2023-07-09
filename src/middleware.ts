@@ -16,8 +16,8 @@ const whiteList = [
   "/sitemap.xml",
   "/favicon.ico",
   "/icon.svg",
-  "apple-icon.png",
-	"f4136e75f1c84ebdbfc8cb8119d81d28.txt",
+  "/apple-icon.png",
+  "/f4136e75f1c84ebdbfc8cb8119d81d28.txt",
 ];
 
 function WhiteListCheck(url: string) {
